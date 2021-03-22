@@ -7,7 +7,7 @@ increment of accuracy on test set, with a relative substantial increase in compu
 To use them, call the method whenever necessary based on the image augmentation structure in use. For better 
 performance, on-fly-augmentation is recommended. 
 
-# Only RGB images are handled.
+Only RGB images are handled.
 
 # Methods
 
